@@ -1,4 +1,4 @@
-### Hi there 👋
+### H1K0 HERE👋
 
 <!--
 **noobone123/noobone123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+H1K0 is a very very baby pwner and a PhD candidate.
+- 🌱 I'm currently Learning how to pwn ...
+- 🔭 I'm interested in program analysis for vulnerability scan and exploit
+- 🤔 I'm not interested in AI but I think I have to learn it ...
+- ⚡ I'm a Dotaer !!!
+
+[![h1k0's github stats](https://github-readme-stats.vercel.app/api?username=noobone123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
