@@ -16,22 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Overview
-h1k0 is a moyu PhD candidate in UCAS
-- 🌱 Currently Learning how to hacking ...
+h1k0 is a PhD candidate in UCAS
+- 🌱 Always Learning how to hacking ...
 - 🔭 Interested in (binary) program analysis
-- 😄 Interested in AI (especially LLM) for security and LLM's security
+- 😄 Interested in AI for security
 - 👯 CTF player, Member of NeSE (Never Stop Exploiting)
-- ⚡ Playing Dota
-
-## What I have done ?
-- BERT/Fine-tune for binary functions' semantic extraction
-- Abstract interpretation based static analysis tool for Linux-based IoT firmware (really interesting but too tedious)
-- LLM-based Taint analysis for server binaries (In datacon 2023, vulnerability analysis racetrack, final rank 9th)
-- PoSS2P (based on dojo) for graduated students' course Software Security
-- ...
-
-## What I Plan to do ?
-- LLM Security and LLM for Security
-- Windows hacking
-- datalog-based static analysis tools
-- ...
