@@ -20,4 +20,4 @@ h1k0 is a PhD candidate in UCAS
 - 🌱 Always Learning how to hacking ...
 - 🔭 Interested in (binary) program analysis
 - 😄 Interested in AI for security
-- 👯 CTF player, Member of NeSE (Never Stop Exploiting)
+- 👯 CTF player, Former member of NeSE (Never Stop Exploiting)
